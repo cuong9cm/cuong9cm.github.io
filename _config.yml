@@ -18,9 +18,9 @@ timezone: Asia/Ho_Chi_Minh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blog of ManhCuong # the main title
+title: ManhCuong # the main title
 
-tagline: Write up # it will display as the sub-title
+tagline: Capy3ra # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My first blog.
