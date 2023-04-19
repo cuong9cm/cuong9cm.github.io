@@ -1,4 +1,9 @@
-## Client-side prototype pollution in third-party libraries
+---
+title: Client-side prototype pollution in third-party libraries
+date: 2023-04-19 12:14:13 +0700
+categories: [Websec, PortSwigger, Prototype Pollution]
+tags: [serverside, prototype_pollution]     # TAG names should always be lowercase
+---
 
 1. Sử dụng DOM Invader xác định được source thông qua flagment trong url
 

@@ -1,11 +1,9 @@
 ---
 title: Bypassing flawed input filters for server-side prototype pollution
 date: 2023-04-19 12:12:12 +/-TTTT
-categories: [WebSec]
-tags: [serverside, prototype_pullution]     # TAG names should always be lowercase
+categories: [Websec, PortSwigger, Prototype Pollution]
+tags: [serverside, prototype_pollution]    # TAG names should always be lowercase
 ---
-
-## Bypassing flawed input filters for server-side prototype pollution
 
 1. Thử chức năng update thông tin tài khoản người dùng, để override status code bằng magic method ``__proto__`` mà không thành công
 

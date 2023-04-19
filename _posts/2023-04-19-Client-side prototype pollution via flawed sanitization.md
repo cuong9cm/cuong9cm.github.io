@@ -1,11 +1,9 @@
 ---
 title: Client-side prototype pollution via flawed sanitization
 date: 2023-04-19 12:13:13 +0700
-categories: [WebSec]
-tags: [serverside, prototype_pollution]     # TAG names should always be lowercase
+categories: [Websec, PortSwigger, Prototype Pollution]
+tags: [serverside, prototype_pollution]    # TAG names should always be lowercase
 ---
-
-## Client-side prototype pollution via flawed sanitization
 
 1. Nhận thấy trong resource, ở searchLoggerFiltered.js có hàm `sanitizeKey()` sẽ filter các key như `__proto__`, `constructor`, `prototype`
 
