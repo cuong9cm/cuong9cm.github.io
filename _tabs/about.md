@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 Hi there, I'm Do Manh Cuong, a 3rd year student majoring in information security at [PTIT](https://portal.ptit.edu.vn/). Currently, I am a web security intern at [Viettel Cyber ​​Security](https://viettelcybersecurity.com/).
 
 ### Experience:
